@@ -1,4 +1,5 @@
 ## Hi there 👋
+I’m a Software and Data Engineer with a strong background in building scalable systems, ETL pipelines, and machine learning integrations for real-world applications.
 
 <!--
 **Maryam-ghol/Maryam-ghol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
