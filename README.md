@@ -1,6 +1,8 @@
  Hi there 👋
 ===============
 At the moment, I am working on a NextJS full-stack App. 
+
+
 I’m a Software, Data Engineer passionate about designing scalable systems, data pipelines, and intelligent web applications that connect data to real-world impact.
 
 
