@@ -13,12 +13,11 @@ I enjoy working end-to-end: from backend data architecture and machine learning 
 💻 Tech Stack
 --------------
 - Languages: Python, JavaScript, SQL, Bash
-- Frontend: React, Tailwind CSS
-- Backend: FastAPI
+- Dev: React, Tailwind CSS, Next.js
 - Data & ML: Pandas, NumPy, Scikit-learn, PyTorch, TensorFlow
 - DevOps & Tools: Docker, Git, PostgreSQL
-- Domains: Remote Sensing 🌍 | Machine Learning 🤖 | Full-Stack Development ⚙️
-
+- Domains:  Full-Stack Development ⚙️| Machine Learning 🤖
+  
 💼 Experience
 --------------
  **Research Assistant – Fern.Lab, GFZ Potsdam, Germany | Feb 2024 – Nov 2025** 
