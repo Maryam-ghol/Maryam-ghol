@@ -1,14 +1,7 @@
  Hi there 👋
 ===============
-At the moment, I am working on a NextJS full-stack App. 
-
-
-I’m a Software, Data Engineer passionate about designing scalable systems, data pipelines, and intelligent web applications that connect data to real-world impact.
-
-
-At GFZ Potsdam (Fern.Lab), I built and maintain AI-driven data systems for environmental research — integrating machine learning models into high-performance ETL pipelines for processing and analyzing large-scale spatio-temporal datasets.
-
-I enjoy working end-to-end: from backend data architecture and machine learning models to frontend visualization and user experience.
+I’m a Data & Software Engineer focused on Azure Databricks, ETL pipelines, and data-driven analytics at the moment. I build automated workflows for time-series and spatial datasets, integrating machine learning models and organizing data in Delta Lake and Unity Catalog.
+At the moment, I’m building an Azure Databricks–based ETL pipeline to extract, transform, and load YouTube channel and video data into Delta tables for analysis. The project automates data ingestion, cleaning, and aggregation, enabling structured insights and dashboards while applying data quality and governance best practices.
 
 💻 Tech Stack
 --------------
