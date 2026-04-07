@@ -56,13 +56,10 @@ I enjoy working end-to-end: from backend data architecture and machine learning 
 ----------------------
 Here are a few highlights of what I’ve been working on:
 
-🌐 Full-Stack Web Apps: React + FastAPI applications with Tailwind CSS
-
-🛰️ Remote Sensing Pipelines: NDVI data extraction and ML analysis using Earth Engine & Python
-
-⚙️ ETL Systems: Automated data pipelines for time-series and spatial datasets
-
-🧠 Machine Learning Experiments: Model comparison and visualization notebooks
+⚙️ ETL & Data Engineering Systems
+- Designed and deployed automated data pipelines for batch and streaming datasets
+- Leveraged Azure Databricks, PySpark, Delta Lake, and Unity Catalog for data processing
+- Implemented data validation, schema enforcement, and pipeline monitoring
 
 
 
