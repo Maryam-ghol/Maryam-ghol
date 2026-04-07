@@ -17,6 +17,15 @@ I enjoy working end-to-end: from backend data architecture and machine learning 
 - Data Pipelines: ETL design, data ingestion, transformation, and automation
 - Databases: PostgreSQL, Oracle, relational data modeling
 - Big Data & Cloud: Azure Databricks, Delta Lake, Unity Catalog
+
+🚀 Projects on GitHub
+----------------------
+Here are a few highlights of what I’ve been working on:
+
+⚙️ ETL & Data Engineering Systems
+- Designed and deployed automated data pipelines for batch and streaming datasets
+- Leveraged Azure Databricks, PySpark, Delta Lake, and Unity Catalog for data processing
+- Implemented data validation, schema enforcement, and pipeline monitoring
   
 💼 Experience
 --------------
@@ -52,14 +61,7 @@ I enjoy working end-to-end: from backend data architecture and machine learning 
 
   - Thesis: Analyzing Source Code Vulnerabilities in PHP
 
-🚀 Projects on GitHub
-----------------------
-Here are a few highlights of what I’ve been working on:
 
-⚙️ ETL & Data Engineering Systems
-- Designed and deployed automated data pipelines for batch and streaming datasets
-- Leveraged Azure Databricks, PySpark, Delta Lake, and Unity Catalog for data processing
-- Implemented data validation, schema enforcement, and pipeline monitoring
 
 
 
