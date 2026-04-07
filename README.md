@@ -12,11 +12,11 @@ I enjoy working end-to-end: from backend data architecture and machine learning 
 
 💻 Tech Stack
 --------------
-- Languages: Python, JavaScript, SQL, Bash
-- Dev: React, Tailwind CSS, Next.js
-- Data & ML: Pandas, NumPy, Scikit-learn, PyTorch, TensorFlow
-- DevOps & Tools: Docker, Git, PostgreSQL
-- Domains:  Full-Stack Development ⚙️| Machine Learning 🤖
+- Languages: Python, SQL, Bash
+- Data Processing: Pandas, NumPy, PySpark
+- Data Pipelines: ETL design, data ingestion, transformation, and automation
+- Databases: PostgreSQL, Oracle, relational data modeling
+- Big Data & Cloud: Azure Databricks, Delta Lake, Unity Catalog
   
 💼 Experience
 --------------
