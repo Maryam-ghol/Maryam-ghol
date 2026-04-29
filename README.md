@@ -1,11 +1,12 @@
  Hi there 👋
 ===============
 I’m a Data & Software Engineer focused on Azure Databricks, ETL pipelines, and data-driven analytics at the moment. I build automated workflows for time-series and spatial datasets, integrating machine learning models and organizing data in Delta Lake and Unity Catalog.
-At the moment, I’m building an Azure Databricks–based ETL pipeline to extract, transform, and load YouTube channel and video data into Delta tables for analysis. The project automates data ingestion, cleaning, and aggregation, enabling structured insights and dashboards while applying data quality and governance best practices.
+At the moment, I’m building an end-to-end data engineering pipeline using Apache Airflow to extract, transform, and load real-time earthquake data from the USGS API into a structured PostgreSQL database. The system automates data ingestion, cleaning, scheduling, and aggregation through Airflow orchestration, enabling time-based and magnitude-based analysis of seismic activity while applying data quality checks, reproducible workflows, and best practices in pipeline design and monitoring.
 
 💻 Tech Stack
 --------------
 - Languages: Python, SQL, Bash
+- Workflow Orchestration: Apache Airflow
 - Data Processing: Pandas, NumPy, PySpark
 - Data Pipelines: ETL design, data ingestion, transformation, and automation
 - Databases: PostgreSQL, Oracle, relational data modeling
